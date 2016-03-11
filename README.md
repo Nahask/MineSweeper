@@ -5,13 +5,13 @@ Game Design and Implementation
 The goal of the MineSweeper is to discover and mark all the mines.
 
 ##GameWorld
--grid
--hidden mines
--mines
--marked case
--hidden empty case
--empty case
--score
+- grid
+- hidden mines
+- mines
+- marked case
+- hidden empty case
+- empty case
+- score
 
 ##Rules
 
